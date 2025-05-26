@@ -1,0 +1,17 @@
+<!-- login.html -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Login - Sistema de Vigilancia</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <div class="ascii-box">
+    <h2>Sistema de Vigilancia</h2>
+    <label>Usuario:<br><input type="text"></label><br>
+    <label>Contraseña:<br><input type="password"></label><br>
+    <button>Iniciar Sesión</button>
+  </div>
+</body>
+</html>
