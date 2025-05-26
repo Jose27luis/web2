@@ -1,0 +1,21 @@
+<!-- admin.html -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Panel de Control - Admin</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <div class="ascii-box">
+    <h3><span class="azul">Admin</span> - Panel de Control</h3>
+    <div class="nav-buttons">
+      <button>Usuarios</button>
+      <button>Procesamientos</button>
+    </div>
+    <p>👤 Total de usuarios: <span class="rojo">10</span></p>
+    <p>📼 Videos procesados: <span class="rojo">25</span></p>
+    <p>🛠️ Ver detalles del sistema</p>
+  </div>
+</body>
+</html>
